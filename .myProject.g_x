@@ -1,0 +1,129 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_Libraries</name>
+      <values lines_count="1">
+        <Line>"TSS_KXX_M0"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_SearchLibraryPaths</name>
+      <values lines_count="1">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="5">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_EntryPoint</name>
+      <value />
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/derivative.h" FileDate="2019-07-11, 01:53:58" FileAge="1562784838547" FileType="45637" CompNumb="75" />
+      <File Name="Documentation/doxygen/myLCD.txt" FileDate="2019-07-01, 15:02:33" FileAge="1561968153802" FileType="45637" CompNumb="41" />
+      <File Name="Sources/TSS/TSS_StatusCodes.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834492" FileType="16384" CompNumb="75" />
+      <File Name="Sources/TSS/TSS_Freemaster.c" FileDate="2019-07-11, 01:53:54" FileAge="1562784834427" FileType="16384" CompNumb="75" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2019-07-01, 14:30:49" FileAge="1561966249845" FileType="8" CompNumb="6" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/myLCD.h" FileDate="2019-07-01, 15:02:33" FileAge="1561968153726" FileType="45637" CompNumb="41" />
+      <File Name="Generated_Code/sw1.h" FileDate="2019-06-28, 03:57:48" FileAge="1561669068084" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/ExtIntLdd1.h" FileDate="2019-07-01, 14:30:49" FileAge="1561966249819" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/myLCD.c" FileDate="2019-07-01, 15:02:33" FileAge="1561968153798" FileType="45637" CompNumb="41" />
+      <File Name="Generated_Code/sw1.c" FileDate="2019-06-28, 03:57:48" FileAge="1561669068082" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/ExtIntLdd1.c" FileDate="2019-07-01, 14:30:49" FileAge="1561966249821" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/TSS1.h" FileDate="2019-07-11, 01:53:58" FileAge="1562784838604" FileType="45637" CompNumb="75" />
+      <File Name="Static_Code/PDD/SAI_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2019-06-28, 03:01:45" FileAge="1561665705486" FileType="45637" />
+      <File Name="Generated_Code/TSS1.c" FileDate="2019-07-11, 01:53:58" FileAge="1562784838553" FileType="45637" CompNumb="75" />
+      <File Name="Sources/mqx_tasks.h" FileDate="1970-01-01, 06:59:59" FileAge="-1" FileType="131328" />
+      <File Name="Documentation/myProject.txt" FileDate="2019-07-11, 03:31:02" FileAge="1562790662863" FileType="3072" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2014-05-14, 13:09:28" FileAge="1400047768000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_GPIO.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834435" FileType="16384" CompNumb="75" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/mqx_tasks.c" FileDate="1970-01-01, 06:59:59" FileAge="-1" FileType="131328" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_SystemSetupData.c" FileDate="2019-07-11, 01:53:54" FileAge="1562784834496" FileType="16384" CompNumb="75" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2013-04-18, 01:55:42" FileAge="1366224942000" FileType="262144" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/Button1.h" FileDate="2019-06-28, 03:40:57" FileAge="1561668057850" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2019-07-11, 03:30:58" FileAge="1562790658236" FileType="45637" CompNumb="6" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834465" FileType="16384" CompNumb="75" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2019-07-11, 03:30:58" FileAge="1562790658238" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/Button1.c" FileDate="2019-06-28, 03:40:57" FileAge="1561668057848" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2019-07-11, 03:30:58" FileAge="1562790658233" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/myProject_SIGNALS.txt" FileDate="2019-07-11, 03:30:58" FileAge="1562790658259" FileType="3072" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.c" FileDate="2019-07-11, 01:53:54" FileAge="1562784834457" FileType="16384" CompNumb="75" />
+      <File Name="Documentation/doxygen/ExtIntLdd1.txt" FileDate="2019-07-11, 01:42:47" FileAge="1562784167861" FileType="45637" CompNumb="16" />
+      <File Name="Sources/TSS/TSS_API.h" FileDate="2019-07-11, 02:30:33" FileAge="1562787033518" FileType="16384" CompNumb="75" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2019-06-28, 03:01:45" FileAge="1561665705565" FileType="45637" CompNumb="6" />
+      <File Name="Sources/TSS_SystemSetup.h" FileDate="2019-07-11, 01:53:58" FileAge="1562784838550" FileType="45637" CompNumb="75" />
+      <File Name="Sources/Events.h" FileDate="2019-07-11, 03:30:58" FileAge="1562790658240" FileType="131328" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Documentation/doxygen/PwmLdd1.txt" FileDate="2019-07-11, 01:49:07" FileAge="1562784547168" FileType="45637" CompNumb="70" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_DataTypes.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834421" FileType="16384" CompNumb="75" />
+      <File Name="Sources/Events.c" FileDate="2019-07-11, 03:30:36" FileAge="1562790636037" FileType="131328" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2019-06-28, 03:01:45" FileAge="1561665705506" FileType="45637" CompNumb="10" />
+      <File Name="Project_Settings/Debugger/MKL46Z256.mem" FileDate="2019-06-28, 02:53:28" FileAge="1561665208168" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/BitIoLdd2.c" FileDate="2019-07-01, 14:30:49" FileAge="1561966249806" FileType="45637" CompNumb="10" />
+      <File Name="Documentation/doxygen/TU1.txt" FileDate="2019-07-11, 01:49:07" FileAge="1562784547142" FileType="45637" CompNumb="71" />
+      <File Name="Sources/TSS/TSS_Sensor.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834448" FileType="16384" CompNumb="75" />
+      <File Name="Documentation/doxygen/myProject.txt" FileDate="2019-07-11, 03:30:58" FileAge="1562790658230" FileType="45637" CompNumb="6" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/LED_YELLOW.h" FileDate="2019-06-28, 03:01:45" FileAge="1561665705497" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_Sensor.c" FileDate="2019-07-11, 01:53:54" FileAge="1562784834440" FileType="16384" CompNumb="75" />
+      <File Name="Sources/TSS/TSS_Timer.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834505" FileType="16384" CompNumb="75" />
+      <File Name="Generated_Code/LED_YELLOW.c" FileDate="2019-06-28, 03:01:45" FileAge="1561665705492" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2019-07-11, 03:30:58" FileAge="1562790658222" FileType="45637" />
+      <File Name="ProjectInfo.xml" FileDate="2019-07-11, 03:31:02" FileAge="1562790662860" FileType="45637" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/PWM1.h" FileDate="2019-07-11, 01:49:07" FileAge="1562784547108" FileType="45637" CompNumb="69" />
+      <File Name="Generated_Code/PWM1.c" FileDate="2019-07-11, 01:49:07" FileAge="1562784547052" FileType="45637" CompNumb="69" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2019-06-28, 03:01:45" FileAge="1561665705478" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2019-07-11, 03:30:58" FileAge="1562790658225" FileType="128" />
+      <File Name="Generated_Code/PwmLdd1.h" FileDate="2019-07-11, 01:49:07" FileAge="1562784547145" FileType="45637" CompNumb="70" />
+      <File Name="Documentation/doxygen/BitIoLdd2.txt" FileDate="2019-06-28, 03:01:45" FileAge="1561665705500" FileType="45637" CompNumb="10" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2019-06-28, 02:53:28" FileAge="1561665208084" FileType="16384" CompNumb="6" />
+      <File Name="Generated_Code/PwmLdd1.c" FileDate="2019-07-11, 01:49:07" FileAge="1562784547148" FileType="45637" CompNumb="70" />
+      <File Name="Sources/TSS/TSS_SensorTSI.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834479" FileType="16384" CompNumb="75" />
+      <File Name="Documentation/myProject_Settings.xml" FileDate="2019-07-11, 03:30:58" FileAge="1562790658325" FileType="3072" />
+      <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_SensorTSI.c" FileDate="2019-07-11, 01:53:54" FileAge="1562784834472" FileType="16384" CompNumb="75" />
+      <File Name="Static_Code/PDD/LCD_PDD.h" FileDate="2013-07-12, 17:59:32" FileAge="1373626772000" FileType="262144" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2019-06-28, 03:01:45" FileAge="1561665705482" FileType="45637" />
+      <File Name="Static_Code/IO_Map/MKL46Z4.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2019-07-01, 14:30:49" FileAge="1561966249833" FileType="45637" CompNumb="6" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2019-07-11, 03:30:58" FileAge="1562790658227" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2019-06-28, 02:53:28" FileAge="1561665208171" FileType="45637" CompNumb="6" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834488" FileType="16384" CompNumb="75" />
+      <File Name="Generated_Code/TU1.h" FileDate="2019-07-11, 01:49:07" FileAge="1562784547127" FileType="45637" CompNumb="71" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.c" FileDate="2019-07-11, 01:53:54" FileAge="1562784834484" FileType="16384" CompNumb="75" />
+      <File Name="Generated_Code/TU1.c" FileDate="2019-07-11, 01:49:07" FileAge="1562784547130" FileType="45637" CompNumb="71" />
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2014-02-20, 14:18:46" FileAge="1392880726000" FileType="262144" />
+      <File Name="Documentation/doxygen/sw1.txt" FileDate="2019-07-11, 01:42:47" FileAge="1562784167898" FileType="45637" CompNumb="17" />
+      <File Name="Sources/TSS/TSS_SystemSetupVal.h" FileDate="2019-07-11, 01:53:54" FileAge="1562784834501" FileType="16384" CompNumb="75" />
+      <File Name="Sources/TSS/libTSS_KXX_M0.a" FileDate="2019-07-11, 01:53:54" FileAge="1562784834384" FileType="16384" CompNumb="75" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>34</CodeGenReference>
+</CodeGenerationInfo>
